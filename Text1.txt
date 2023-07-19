@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 HArshit
+
+Srushti
+=======
+Harshit
+Rushikesh :))
+>>>>>>> 7de41d8be5137a51f89ad3e8fcc67cd126e51942
 
 Srushti
